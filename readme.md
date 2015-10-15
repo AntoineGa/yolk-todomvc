@@ -6,7 +6,7 @@
 ## Resources
 
 - [Website](https://github.com/BrewhouseTeam/yolk)
-- [Blog](www.brewhouse.io/blog)
+- [Blog](http://www.brewhouse.io/blog)
 
 
 ## Credit
