@@ -1,5 +1,5 @@
 function Main (props) {
-  const {filter, todos} = props
+  const {todos, filter} = props
 
   return (
     <section className="main">

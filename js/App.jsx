@@ -1,5 +1,7 @@
 function App (props) {
-  const {filter, todos} = props
+  const {state} = props
+  const todos = state.map(s => s.get(`todos`))
+  const filter = state.map(s => s.get(`filter`))
 
   return (
     <div>
